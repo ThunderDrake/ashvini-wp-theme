@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('../fonts/HKGrotesk-Regular.ttf');
+url('../fonts/HKGrotesk-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('../fonts/HKGrotesk-Medium.ttf');
+url('../fonts/HKGrotesk-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('../fonts/HKGrotesk-SemiBold.ttf');
+url('../fonts/HKGrotesk-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HKGrotesk';
+    src: url('../fonts/HKGrotesk-Italic.ttf');
+url('../fonts/HKGrotesk-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
